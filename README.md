@@ -95,6 +95,5 @@ Use the **Functions window**, **Strings window**, and **Imports/Exports** to exp
 ## 📚 Resources
 
 - 📖 [Hex-Rays Official Docs](https://hex-rays.com/documentation/)
-- 💬 [Hex-Rays Forum](https://hex-rays.com/forums/)
 - 🎓 [Reverse Engineering StackExchange](https://reverseengineering.stackexchange.com/)
 - 🧪 [crackmes.one](https://crackmes.one/) — Practice RE challenges
